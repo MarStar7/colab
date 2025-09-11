@@ -1,3 +1,1 @@
 # Colaboration
-
-10.09.25
